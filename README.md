@@ -14,7 +14,7 @@ I hold a degree in Biomedical Sciences and now I am currently transitioning into
 
 [![R](https://shields.io)](https://www.r-project.org)
 [![Python](https://shields.io)](https://www.python.org)
-[![SQL](https://shields.io)](https://w3schools.com)
+![SQL](https://shields.io)
 
 ### 🎯 Focus Areas
 * Medical Intervention Analysis
