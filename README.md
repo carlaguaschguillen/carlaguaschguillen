@@ -11,11 +11,9 @@ I hold a degree in Biomedical Sciences and now I am currently transitioning into
 * **Languages:** R, SQL, Python
 * **Environments:** RStudio, GitHub
 * **Core Libraries:**
-<p align="left">
-  <img src="https://shields.io" alt="R">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="tidyverse">
-  <img src="https://shields.io" alt="shiny">
+![R](https://shields.io) 
+![Python](https://shields.io) 
+![tidyverse](https://shields.io) 
 </p>
 
 ### 🎯 Focus Areas
