@@ -8,13 +8,13 @@ I hold a degree in Biomedical Sciences and now I am currently transitioning into
 * 🚀 Current goal: Deepening my knowledge in automated reporting and advanced data visualization.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** R, SQL, Python
 * **Environments:** RStudio, GitHub
-* **Core Libraries:**
-![R](https://shields.io) 
-![Python](https://shields.io) 
-![tidyverse](https://shields.io) 
-</p>
+* **Core Languages:**
+<br>
+
+[![R](https://shields.io)](https://www.r-project.org)
+[![Python](https://shields.io)](https://www.python.org)
+[![SQL](https://shields.io)](https://wikipedia.org)
 
 ### 🎯 Focus Areas
 * Medical Intervention Analysis
